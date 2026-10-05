@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./mihawk-matrix-blue-v2.svg" width="100%" alt="MIHAWK">
+  <img src="./persona-butterfly-swarm-60fps.webp" width="100%" alt="Mihawk">
 </p>
